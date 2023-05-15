@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "./instroduction/sample",
+    "./instroduction/practice_sll",
 ]
